@@ -1,7 +1,7 @@
 # Charla Táctica Perú
 
 <p align="center">
-  <img src="img/LOGO.png" alt="Logo Charla Táctica Perú" width="180">
+  <img src="img/logo.png" alt="Logo Charla Táctica Perú" width="180">
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ flowchart LR
 ```text
 CHARLATACTICA/
 ├── img/
-│   ├── LOGO.png
+│   ├── logo.png
 │   ├── LOGO1.png
 │   ├── chalkboard_bg.png
 │   ├── DiegoCervan.jpg
